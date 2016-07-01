@@ -21,6 +21,9 @@ ul{
   font-size: 15px;
   font-weight: bold;
 }
+li:hover {
+    background-color: orange;
+}
 .logo-img {
   float: left;
   width: 207px;
