@@ -18,6 +18,8 @@ ul{
 .links li, .tools li {
   display: inline-block;
   padding: 5px;
+  font-size: 15px;
+  font-weight: bold;
 }
 .logo-img {
   float: left;
@@ -29,11 +31,14 @@ ul{
   width: 350px;
   text-align: center;
   margin-left: 300px;;
+line-height: 40px;
 }
 .tools{
   float:right;
   width: 135px;
   position: relative;
+  line-height: 40px;
+
 }
 .navbar > div {
   display: inline-block;
@@ -65,6 +70,8 @@ h1, h2{
   margin-left: 40px;
   margin-bottom: 80px;
   margin-top: 30px;
+  width: 400px;
+  
 }
 .footer ul{
   list-style: none;
@@ -77,4 +84,12 @@ h1, h2{
   display: inline-block;
   padding:20px;
 }
-.
+
+.online-store li, .Point-of-sale li{
+  display: inline;
+  padding: 9px;
+  text-align: center;
+}
+.Point-of-sale ul,.online-store ul{
+  text-align: center;
+}
