@@ -30,8 +30,8 @@ ul{
 .links {
   width: 350px;
   text-align: center;
-  margin-left: 300px;;
-line-height: 40px;
+  margin-left: 300px;
+  line-height: 40px;
 }
 .tools{
   float:right;
@@ -49,8 +49,9 @@ line-height: 40px;
 	float: right;
 	right: 0;
 	font-size: 50px;
-	margin-right:430px;
+	margin-right:460px;
   color:orange;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 .main-img{
@@ -59,6 +60,8 @@ line-height: 40px;
 }
 h1, h2{
   text-align: center;
+  color:#f94e3f;
+  font-family: 'Montserrat', sans-serif;
 }
 .footer{
   width: 100%;
@@ -70,8 +73,15 @@ h1, h2{
   margin-left: 40px;
   margin-bottom: 80px;
   margin-top: 30px;
-  width: 400px;
-  
+  width: 800px;
+  height: 200px;
+  border: 2px solid black;
+  padding-left: 35px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.list-item li{
+  padding-bottom: 5px;
 }
 .footer ul{
   list-style: none;
@@ -92,4 +102,9 @@ h1, h2{
 }
 .Point-of-sale ul,.online-store ul{
   text-align: center;
+}
+.footer-img{
+  float:right;
+  position: relative;
+right:20px;
 }
