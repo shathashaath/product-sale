@@ -6,6 +6,13 @@ body,html{
   width: 100%;
   margin: 0 auto;
 }
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
 .navbar{
   border-bottom: 2px solid black;
   width: 100%;

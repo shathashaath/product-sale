@@ -1,3 +1,4 @@
+https://shathashaath.github.io/product-sale/
 # Mango
 
 #### This is a lightweight repository to deploy a basic project of  solo project. It is meant to save time and support clean builds. Current as of July 1, 2016
